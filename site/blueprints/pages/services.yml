@@ -1,0 +1,121 @@
+title: Services
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      fields:
+        type: fields
+        fields:     
+          swDevelopment:
+            width: 1/2
+            label: vývoj software nadpis
+            type: text
+          heroImage:
+            type: files
+            width: 1/2
+            label: Image
+              headline: Image
+              layout: cards
+              image:
+              query: page.intro-image.toFile()
+              cover: true
+              ratio: 4/3
+              info: "{{ file.dimensions }}"
+              template: intro-image
+              projectIntro:
+              type: text
+              label: Project Intro
+
+          swHeader:
+            width: 1/2
+            label: vývoj softwares popis
+            type: text
+          swContent:
+            label: vývoj software obsah
+            type: textarea
+          aiHeader:
+            width: 1/2
+            label: AI nadpis
+            type: text
+          aiLabel:
+            width: 1/2
+            label: ai popis
+            type: text 
+          aiContent:
+            label: ai obsah
+            type: textarea
+          webHeader:
+            width: 1/2
+            label: web nadpis
+            type: text
+          webLabel:
+            width: 1/2
+            label: web popis
+            type: text 
+          webContent:
+            label: web obsah
+            type: textarea
+          cloudHeader:
+            width: 1/2
+            label: cloud nadpis
+            type: text
+          cloudLabel:
+            width: 1/2
+            label: cloud popis
+            type: text 
+          cloudContent:
+            label: cloud obsah
+            type: textarea
+          srvHeader:
+            width: 1/2
+            label: server nadpis
+            type: text
+          srvLabel:
+            width: 1/2
+            label: server popis
+            type: text 
+          srvContent:
+            label: server obsah
+            type: textarea
+          anaHeader:
+            width: 1/2
+            label: analyse nadpis
+            type: text
+          anaLabel:
+            width: 1/2
+            label: analyse popis
+            type: text 
+          anaContent:
+            label: analyse obsah
+            type: textarea
+          techHeader:
+            width: 1/2
+            label: tech nadpis
+            type: text
+          techLabel:
+            width: 1/2
+            label: tech popis
+            type: text 
+          konzultaceHeader:
+            width: 1/2
+            label: konzultace nadpis
+            type: text
+          konzultaceLabel:
+            width: 1/2
+            label: konzultace popis
+            type: text 
+          napisteHeader:
+            label: napiste nadpis
+            type: text
+          klientiHeader:
+            label: nasi klienti
+            type: text
+  sidebar:
+    width: 1/3
+    sections:
+      pages:
+        type: pages
+        template: default
+      files:
+        type: files

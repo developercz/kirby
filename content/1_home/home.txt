@@ -1,0 +1,287 @@
+Title: Home
+
+----
+
+Moderninovationtext: Chytrá řešení pro chytřejší svět
+
+----
+
+Digitalword: Uchopte budoucnost pomocí umělé inteligence
+
+----
+
+Headline: test obsahu
+
+----
+
+Text: test na listu
+
+----
+
+Shortcode: Vývoj software | mobilní aplikace a weby | cloud
+
+----
+
+Shortcodetext: Vytváříme budoucnost s umělou inteligencí."
+
+----
+
+Shortcodecontent: 
+
+----
+
+Btnservice: 
+
+----
+
+Btnreference: 
+
+----
+
+Ourservice: Vývoj software na zakázku
+
+----
+
+Ourservicecontent: Telco, bankovnictví, obrana, chytrá domácnost
+
+----
+
+Ourservicecontentright: Kompletní řešení pro vývoj a nasazení aplikací edge computing a autonomních strojů s umělou inteligencí v rámci výroby, logistiky, zdravotnictví, chytrých měst a maloobchodu.
+
+----
+
+Block1: vývoj
+
+----
+
+Block1content: popis co děláme
+
+----
+
+Block2: mobilní apky
+
+----
+
+Block2content: jak do maká
+
+----
+
+Block3: weby
+
+----
+
+Block3content: jak to maká
+
+----
+
+Block4: cloudy
+
+----
+
+Block4content: jak do maká
+
+----
+
+Block5: servers
+
+----
+
+Block5content: jak do maká
+
+----
+
+Block6: radíme
+
+----
+
+Block6content: jak do maká
+
+----
+
+Blockclients: Pro koho makáme
+
+----
+
+Blockstudy: Případové studie
+
+----
+
+Ourknowleadge: Co nás odlišuje
+
+----
+
+Blocktechnologyheadline: Technologie
+
+----
+
+Blocktechnology: Technologie
+
+----
+
+Blocksecurityheadline: Security
+
+----
+
+Blocksecurity: Security
+
+----
+
+Blockteamheadline: Team
+
+----
+
+Blockteam: Team
+
+----
+
+Blockqualityheadline: Kvalota
+
+----
+
+Blockquality: Kvalota
+
+----
+
+Technologieheadline: Používáme technologie
+
+----
+
+Technologie: Používáme technologie......
+
+----
+
+Blockdesignheadline: Design
+
+----
+
+Blockdesign: Design ......
+
+----
+
+Btnonas: O nás
+
+----
+
+Btnkariera: Kariéra
+
+----
+
+Followus: Následujte nás
+
+----
+
+Followustext: přidejte se k nám
+
+----
+
+Contactheader: Kontakt
+
+----
+
+City: Praha 1
+
+----
+
+Street: Kaprova 42/14
+
+----
+
+Zip: 11000
+
+----
+
+Country: Česká Republika
+
+----
+
+Callusheader: Zavolejte nám
+
+----
+
+Callus: +420123456789
+
+----
+
+Email: contact@unicoeurope.com
+
+----
+
+Meetingnow: Chci meet
+
+----
+
+Needmeeting: Sjednejte si meeting
+
+----
+
+Headertitle: 
+
+----
+
+Headerdescription: 
+
+----
+
+Footerfollowus: 
+
+----
+
+Footerfollowustext: 
+
+----
+
+Footeradresa: 
+
+----
+
+Footerkontakt: 
+
+----
+
+Footerwriteus: 
+
+----
+
+Footerwrite: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Header: jejda
+
+----
+
+Headercontent: V našem repertoáru naleznete všechny klíčové prvky pro úspěšný digitální produkt - od koncepce až po design, vývoj a další rozvoj.
+
+----
+
+Uuid: 6quolfAz3VyS9hkr
+
+----
+
+Blocks:
+
+- 
+  content: [ ]
+  id: f38bef35-b97a-4d0f-8f56-fb355fe93e0e
+  isHidden: false
+  type: line
+- 
+  content:
+    text: ""
+  id: 97e709b7-7419-4cd7-97f0-e4e7d3b34ce7
+  isHidden: false
+  type: text
+- 
+  content:
+    text: ""
+  id: c68e601b-b29f-4abe-8a69-c56f450c2f02
+  isHidden: false
+  type: list

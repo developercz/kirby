@@ -1,0 +1,270 @@
+title: Default Page
+tabs:
+
+  # content tab
+  content:
+    label: Content
+    icon: text
+    columns:
+
+      # main
+      main:
+        width: 2/3
+        sections:
+
+          # a simple form
+          content:
+            type: fields
+            fields:
+              ModernInovationText:
+                label: Moderní inovace
+                type: textarea
+              digitalWord:
+                label: Digitalni svet
+                type: text
+              headline:
+                label: Headline
+                type: text
+              text:
+                label: Text
+                type: textarea
+              shortCode:
+                width: 1/2
+                label: Short kody
+                type: text
+              shortCodeText:
+                label: Druhy Nadpis
+                type: text
+              shortCodeContent:
+                label: Obsah
+                type: textarea
+              btnService:
+                width: 1/2
+                label: btn sluzby
+                type: text
+              btnReference:
+                width: 1/2
+                label: btn reference
+                type: text
+              ourService:
+                width: 1/2
+                label: Naše služby nadpis
+                type: text
+              ourServiceContent:
+                width: 1/2
+                label: Naše služby obsah
+                type: textarea
+              ourServiceContentRight:
+                label: Naše služby obsah full
+                type: textarea
+              block1:
+                width: 1/2
+                label: Blok 1 nadpis
+                type: text
+              block1content:
+                width: 1/2
+                label: Blok 1  obsah
+                type: textarea
+              block2:
+                width: 1/2
+                label: Blok 2 nadpis
+                type: text
+              block2content:
+                width: 1/2
+                label: Blok 2  obsah
+                type: textarea
+              block3:
+                width: 1/2
+                label: Blok 3 nadpis
+                type: text
+              block3content:
+                width: 1/2
+                label: Blok 3  obsah
+                type: textarea
+              block4:
+                width: 1/2
+                label: Blok 4 nadpis
+                type: text
+              block4content:
+                width: 1/2
+                label: Blok 4  obsah
+                type: textarea
+              block5:
+                width: 1/2
+                label: Blok 5 nadpis
+                type: text
+              block5content:
+                width: 1/2
+                label: Blok 5  obsah
+                type: textarea
+              block6:
+                width: 1/2
+                label: Blok 6 nadpis
+                type: text
+              block6content:
+                width: 1/2
+                label: Blok 6  obsah
+                type: textarea
+              blockClients:
+                label: Blok klienti
+                type: text
+              blockStudy:
+                label: Případové studie
+                type: text 
+              ourKnowleadge:
+                label: Co nás odlišuje
+                type: text
+              blockTechnologyHeadline:
+                width: 1/2
+                label: Blok technologie nadpis
+                type: text
+              blockTechnology:
+                width: 1/2
+                label: Blok technologie  obsah
+                type: textarea
+              blockSecurityHeadline:
+                width: 1/2
+                label: Blok security  nadpis
+                type: text
+              blockSecurity:
+                width: 1/2
+                label: Blok security obsah
+                type: textarea
+              blockTeamHeadLine:
+                width: 1/2
+                label: Blok team nadpis
+                type: text
+              blockTeam:
+                width: 1/2
+                label: Blok team  obsah
+                type: textarea
+              blockQualityHeadLine:
+                width: 1/2
+                label: Blok Kvalita nadpis
+                type: text
+              blockQuality:
+                width: 1/2
+                label: Blok Kvalita  obsah
+                type: textarea
+              technologieHeadLine:
+                label: technologie nadpis
+                type: text
+              technologie:
+                label: technologie obsah
+                type: text
+              blockDesignHeadLine:
+                label: Design nadpis
+                type: text
+              blockDesign:
+                label: Design obsah
+                type: textarea
+              btnOnas:
+                label: btn o nás
+                type: text
+              btnKariera: 
+                label: btn kariera
+                type: text
+              followUs:
+                width: 1/2
+                label: Následujte nás soc. sítě
+                type: text
+              followUsText:
+                width: 1/2
+                label: Následujte nás text
+                type: text
+              contactHeader:
+                width: 1/2
+                label: Kontakt nadpis
+                type: text
+              city: 
+                label: Město
+                type: text
+              street: 
+                label: Adresa
+                type: text
+              zip: 
+                label: psc
+                type: number
+              country: 
+                labels: země
+                type: text
+              callUsHeader:
+                label: Zavolejte nadpis
+                type: text  
+              callUs:
+                label: telefon
+                type: text
+              email: 
+                label: email
+                type: text
+              meetingNow:
+                label: Chci meeting
+                type: text
+              needMeeting:
+                label: Sjednat meeting
+                type: text
+      # sidebar
+      sidebar:
+        width: 1/3
+        sections:
+
+          # a list of subpages
+          pages:
+            type: pages
+            label: Subpages
+
+          # a list of files
+          files:
+            type: files
+            label: Files
+  # header tab
+  header:
+    label: Header
+    icon: search
+    fields:
+      headerTitle:
+        label: Header Title
+        type: text
+      headerDescription:
+        label: Header Description
+        type: text
+  # footer tab
+  footer:
+    label: Footer
+    icon: search
+    fields:
+      footerFollowUs:
+        width: 1/2
+        label: Následujte nás nadpis
+        type: text
+      footerFollowUstext:
+        width: 1/2
+        label: Následujte nás text
+        type: textarea
+      footerAdresa:
+        width: 1/2
+        label: Adresa
+        type: textarea
+      footerKontakt:
+        width: 1/2
+        label: Kontakt
+        type: textarea
+      footerWriteUs:
+        width: 1/2
+        label: Napište nám nadpis
+        type: text
+      footerWrite:
+        width: 1/2
+        label: Napište nám obsah
+        type: textarea
+  # seo tab
+  seo:
+    label: SEO
+    icon: search
+    fields:
+      seoTitle:
+        label: SEO 
+        type: text
+      seoDescription:
+        label: SEO Description
+        type: text
